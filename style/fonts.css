@@ -1,0 +1,23 @@
+@font-face {
+  font-family: orbitron;
+  src: url(../assets/fonts/Orbitron/Orbitron-VariableFont_wght.ttf);
+}
+
+@font-face {
+  font-family: inclusive_sans;
+  src: url(../assets/fonts/Inclusive_Sans/InclusiveSans-Regular.ttf);
+}
+
+.header-top-top {
+  font-family: orbitron;
+  font-style: italic;
+  font-size: 2rem;
+}
+
+p {
+  font-family: inclusive_sans;
+}
+
+table {
+  font-family: inclusive_sans;
+}
